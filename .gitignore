@@ -1,0 +1,27 @@
+# Kommentare beginnen mit #
+
+# Einzelne Dateien ignorieren
+todo.md
+CLAUDE.md
+
+# Dateierweiterungen ignorieren
+#*.log
+#*.tmp
+#*.swp
+
+# Ordner ignorieren
+#node_modules/
+#build/
+#dist/
+
+# Systemdateien
+.DS_Store      # macOS
+#Thumbs.db      # Windows
+
+# IDE-Dateien
+.vscode/
+#*.sublime-*
+
+# Umgebungsvariablen
+#.env
+#.env.local
